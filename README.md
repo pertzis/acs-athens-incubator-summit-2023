@@ -24,4 +24,4 @@ In the case of this C2 system, the server runs on the victim's machine, while th
 
 The language of choice for the server is Go. This is because it can be compiled into a single executable for any platform, and it is relatively easy to implement TCP networking, start processes, and use the Windows API for certain functionality without the requirement of boilerplate code.
 
-For the client, The Electron JavaScript framework was used, due to the simplicity of creating graphical user interfaces using HTML, JavaScript and CSS. In addition, the backend logic for handling socket communication can easily interface with the frontend through RPC.
+For the client, The Electron JavaScript framework was used, due to the simplicity of creating graphical user interfaces using HTML, JavaScript and CSS. In addition, the backend logic for handling socket communication can easily interface with the frontend code through RPC.
