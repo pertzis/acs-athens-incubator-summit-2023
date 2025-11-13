@@ -12,6 +12,7 @@ To make the session engaging for a younger audience, I developed:
 
 During the activity, one of the students pretended to be the victim, needing to complete computer-based tasks. The other student used the C2 client, acting as the attacker and took part in disrupting the progress of the victim. The exercise gave students hands-on insight into how cyberattacks work, and why cybersecurity awareness is crucial.
 
+---
 
 ## Architecture
 
