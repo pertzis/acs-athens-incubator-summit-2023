@@ -1,4 +1,4 @@
-# 2023 ACS Athens Incubator Summit - C2C Demonstration
+# 2023 ACS Athens Incubator Summit - C2 Demonstration
 
 ## Introduction
 
